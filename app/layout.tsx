@@ -1,4 +1,4 @@
-export default function RootLayout({
+export default function AppLayout({
   children,
 }: {
   children: React.ReactNode
